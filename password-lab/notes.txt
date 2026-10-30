@@ -1,0 +1,7 @@
+Password Lab notes:
+- input() asks the user to type, and stores it.
+- len() counts characters.
+- if/elif/else makes a decision.
+- for loop checks one character at a time.
+- isdigit() asks: is this character a number 0-9?
+- Use test passwords only, never a real password.

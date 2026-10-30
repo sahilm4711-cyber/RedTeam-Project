@@ -1,0 +1,6 @@
+System Audit notes:
+- platform tells you about the OS.
+- socket gives the hostname.
+- os.stat gives file permission numbers.
+- subprocess runs a safe Linux command like ss -tln and captures output.
+- Audit runs on your own machine only.
